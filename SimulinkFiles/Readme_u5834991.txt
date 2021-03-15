@@ -1,0 +1,5 @@
+Thank you for taking the time to read this.
+I have included the Simulink .slx files as is per the simulation parameters that I was testing at the time of submission. 
+Also included the MATLAB .m files that I used for generating the plots. HOWEVER please note that the MATLAB codes are very rough that I used to plot the data efficiently. 
+
+Thanks
